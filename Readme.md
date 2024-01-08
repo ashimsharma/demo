@@ -1,1 +1,1 @@
-Just a demo.
+Javascript DOM Manipulation.
